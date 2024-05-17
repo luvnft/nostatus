@@ -52,7 +52,7 @@ export const App = () => {
           onClick={handleClickHeader}
         >
           <h1 className={css({ textStyle: "title" })}>IAM</h1>
-          <p className={css({ textStyle: "tagline", color: "text.sub" })}>Update your tribe with your IAM status.</p>
+          <p className={css({ textStyle: "tagline", color: "text.sub" })}>Update your tribe with your IAM link or music status while receiving Bitcoin Zaps.</p>
         </div>
         <div className={css({ ml: "auto" })}>
           <Suspense>
