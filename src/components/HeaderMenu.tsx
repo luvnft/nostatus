@@ -238,7 +238,7 @@ const MenuItemZap = () => {
     <DropdownMenuItem
       ref={menuItemRef}
       className={menuItem()}
-      data-npub="npub168ghgug469n4r2tuyw05dmqhqv5jcwm7nxytn67afmz8qkc4a4zqsu2dlc"
+      data-npub="npub1s0k9j8vn4nnjwqcze568ayx83k32jardqfh7hrk7c3mlpqkwgj0qucp3c9"
       data-relays="wss://relay.nostr.band,wss://relayable.org,wss://relay.damus.io,wss://relay.nostr.wirednet.jp"
     >
       <Zap className={icon()} />
@@ -254,7 +254,7 @@ const MenuItemGitHubRepo = () => {
     <DropdownMenuItem asChild>
       <a
         className={menuItem()}
-        href="https://github.com/jiftechnify/nostatus"
+        href="https://github.com/luvnft/nostatus"
         target="_blank"
         rel="external noreferrer"
       >

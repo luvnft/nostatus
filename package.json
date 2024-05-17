@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": "jiftechnify",
+  "author": "thewizardofhahz",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jiftechnify/nostatus.git"
+    "url": "git@github.com:luvnft/nostatus.git"
   },
   "license": "MIT",
   "scripts": {

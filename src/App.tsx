@@ -51,8 +51,8 @@ export const App = () => {
           role="button"
           onClick={handleClickHeader}
         >
-          <h1 className={css({ textStyle: "title" })}>nostatus</h1>
-          <p className={css({ textStyle: "tagline", color: "text.sub" })}>Have an eye on your friends' status.</p>
+          <h1 className={css({ textStyle: "title" })}>IAM</h1>
+          <p className={css({ textStyle: "tagline", color: "text.sub" })}>Update your tribe with your IAM status.</p>
         </div>
         <div className={css({ ml: "auto" })}>
           <Suspense>

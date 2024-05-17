@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./docs/logo.svg" align="center" width="64" height="64">
 </p>
-<h1 align="center">nostatus</h1>
+<h1 align="center">IAM</h1>
 
 <p align="center"> A Nostr web client specialized in browsing user status (<a href="https://github.com/nostr-protocol/nips/blob/master/38.md">NIP-38</a>).</p>
 
@@ -10,7 +10,7 @@
 ## Features
 
 - 👀 Your friends' user status at a glance
-- 🎵 Checking out "now playing" (`music` status) of your followees
+- 🎵 Checking out "now playing" (`music` status) of your followers
 - ✨ Updating your status with URL link and expiration
 - 📲 PWA ready
 - 🌓 Light & dark color themes
